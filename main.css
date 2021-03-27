@@ -1,0 +1,28 @@
+body {
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: antiquewhite;
+}
+
+button {
+    padding: 4px;
+    margin: 3px;
+    background-color: burlywood;
+    font-weight: 700;
+    border: 1px solid black;
+    flex-direction: row;
+}
+
+.message {
+    text-align: center;
+    margin: 5%;
+}
+
+.score  {
+    text-align: center;
+    margin: 5%;
+}
